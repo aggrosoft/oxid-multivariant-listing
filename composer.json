@@ -1,0 +1,16 @@
+{
+  "name": "aggrosoft/oxid-multivariant-listing",
+  "description": "Oxid eShop Multivariants in Lists",
+  "type": "oxideshop-module",
+  "keywords": ["oxid", "modules", "eShop"],
+  "homepage": "https://www.aggrosoft.de",
+  "license": [
+    "MIT"
+  ],
+  "extra": {
+    "oxideshop": {
+      "source-directory": "copy_this/modules/agmultivariantlisting/",
+      "target-directory": "agmultivariantlisting"
+    }
+  }
+}
