@@ -10,7 +10,7 @@ $aModule = array(
     'id'           => 'agmultivariantlisting',
     'title'        => 'Multi Variant Listing',
     'description'  => 'Allows to choose and quick buy multivariants from article listing',
-    'version'      => '1.0',
+    'version'      => '1.0.0',
     'author'       => 'Aggrosoft GmbH',
     'extend' => [
         // Controller

@@ -2,6 +2,7 @@
   "name": "aggrosoft/oxid-multivariant-listing",
   "description": "Oxid eShop Multivariants in Lists",
   "type": "oxideshop-module",
+  "version": "1.0.0",
   "keywords": ["oxid", "modules", "eShop"],
   "homepage": "https://www.aggrosoft.de",
   "license": [
